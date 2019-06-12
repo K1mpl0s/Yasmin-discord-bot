@@ -1,2 +1,2 @@
 # Yasmin-discord-bot
-Experimental discord bot using yasmin.
+Experimental discord bot with the library Yasmin
